@@ -227,3 +227,4 @@ game.onUpdate(function () {
         mySprite.setVelocity(randint(80, 90), 0)
     }
 })
+//end of code
